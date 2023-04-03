@@ -1,0 +1,10 @@
+name: intro2nlp
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - spacy
+  - jupyter
+  
